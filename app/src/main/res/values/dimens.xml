@@ -1,0 +1,27 @@
+<resources>
+
+    <!--Login screen dimensions : Default-->
+    <dimen name="padding_btn_login_default">10dp</dimen>
+    <dimen name="margin_layout_default">4dp</dimen>
+
+    <!--Login screen dimensions : Large-->
+    <dimen name="padding_btn_login_large">16dp</dimen>
+    <dimen name="margin_layout_large">4dp</dimen>
+    <dimen name="text_size_login_large">20dp</dimen>
+
+    <!--Login screen dimensions : XLarge-->
+    <dimen name="padding_btn_login_xlarge">25dp</dimen>
+    <dimen name="margin_layout_xlarge">4dp</dimen>
+    <dimen name="text_size_login_xlarge">35dp</dimen>
+
+    <!--Login screen dimensions : XLarge_Landscape-->
+    <dimen name="padding_btn_login_xlarge_land">25dp</dimen>
+    <dimen name="margin_layout_xlarge_land">4dp</dimen>
+    <dimen name="text_size_login_xlarge_land">35dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
